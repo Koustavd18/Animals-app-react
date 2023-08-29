@@ -9,7 +9,12 @@ import horse from './svg/horse.svg'
 import './AnimalShow.css'
 
 const svgMap = {
-    bird, cat, cow, dog, gator, horse
+    bird, 
+    cat, 
+    cow, 
+    dog, 
+    gator, 
+    horse
 }
 
 
